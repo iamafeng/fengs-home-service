@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.afeng.log.autoconfigure.LogAutoConfiguration,\
+com.afeng.log.autoconfigure.LogAop
